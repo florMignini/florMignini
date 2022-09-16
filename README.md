@@ -1,5 +1,5 @@
 ### Hi I'm Florencia 👋 👩🏻‍💻
-![me](https://photos.app.goo.gl/15LJnTCxEZkzAWWS8)
+
 ```js
 const flor = {
   pronouns: "she" | "her",
