@@ -4,6 +4,6 @@
 const flor = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Javascript, Python],
-  tools: [React, React Native, Redux, Node, Styled-Components, Bootstrap, Material UI],
+  tools: [React, React Native, Redux, Node, Vue, TypeScript, Styled-Components, Bootstrap, Material UI],
 }
 ```
