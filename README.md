@@ -3,7 +3,7 @@
 ```js
 const flor = {
   pronouns: "she" | "her",
-  code: [HTML, CSS, JavaScript, Python, C#],
-  tools: [React, React Native, Redux, Node, Vue, TypeScript, Styled-Components, Bootstrap, Material UI],
+  code: [HTML, CSS, JavaScript, Python],
+  tools: [React, React Native, Flutter, Node, TypeScript, Redux, Tailwind CSS, Styled-Components, Material UI],
 }
 ```
